@@ -1,3 +1,6 @@
 # Thesis-Project-P499-2019-20
-## Work in Progress!
-Stay tuned, and check out my thesis proposal in the meanwhile!
+This thesis serves as a review of the Standard Model's weak mixing angle, and explores its application in the hunt for Weakly Interacting Massive Particles (WIMPs). Specifically, it looks at the departure of the weak mixing angle from theoretical expectation in the presence of intermediate-mass dark Z bosons, and compares it to the precision measurements possible (both present and projected) at the SuperKEKB, at the energy scale of the Belle II experiment (Q = 10.58 GeV). We find that the proposed upgrade of adding polarization to the electron beams, is required to be able to detect aforementioned discrepancies in the weak mixing angle at Q = 10.58GeV.
+
+My Physics 499 thesis has been attached above. It has been handed in and graded: I got an A+. Thanks Dr. Roney! :)
+
+Presently, I am working on expanding on this work as a Summer Undergraduate Researcher at McGill University, under the supervision of Dr. Cline.
